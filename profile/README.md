@@ -8,20 +8,8 @@ To get started with TarGene, please visit [targene-pipeline](https://github.com/
 
 ## Linked repositories
 
-- [UKBMain.jl](https://github.com/TARGENE/UKBMain.jl): Traits extraction from the UK-Biobank
-
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/UKBMain.jl/CI/main?label=Build%20main)
-![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/UKBMain.jl/main?label=Coverage%20main)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/UKBMain.jl)
-
-- [TargeneCore.jl](https://github.com/TARGENE/TargeneCore.jl): Core functionalities used by the pipeline
-
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/TargeneCore.jl/CI/main?label=Build%20main)
-![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/TargeneCore.jl/main?label=Coverage%20main)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/TargeneCore.jl)
-
-- [TargetedEstimation.jl](https://github.com/TARGENE/TargetedEstimation.jl): TMLE CLI
-
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/TargetedEstimation.jl/CI/main?label=Build%20main)
-![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/TargetedEstimation.jl/main?label=Coverage%20main)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/TargetedEstimation.jl)
+| **Repository**   | **Description**  | **Build Status**   | **Code Coverage**  | **Current Release**  |
+|------------------|------------------|--------------------|--------------------|--------------------|
+| [UKBMain.jl](https://github.com/TARGENE/UKBMain.jl) | Traits extraction from the UK-Biobank | ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/UKBMain.jl/CI/main?label=Build%20main) | ![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/UKBMain.jl/main?label=Coverage%20main) | ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/UKBMain.jl) |
+| [TargeneCore.jl](https://github.com/TARGENE/TargeneCore.jl) | Core functionalities used by the pipeline | ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/TargeneCore.jl/CI/main?label=Build%20main) | ![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/TargeneCore.jl/main?label=Coverage%20main) | ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/TargeneCore.jl)
+| [TargetedEstimation.jl](https://github.com/TARGENE/TargetedEstimation.jl) | TMLE CLI | ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TARGENE/TargetedEstimation.jl/CI/main?label=Build%20main) | ![Codecov branch](https://img.shields.io/codecov/c/github/TARGENE/TargetedEstimation.jl/main?label=Coverage%20main) | ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TARGENE/TargetedEstimation.jl)
