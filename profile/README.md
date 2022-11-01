@@ -4,7 +4,7 @@ Your one-way ticket to Targeted-Learning of genetic effects! ✈️
 
 ## Pipeline
 
-To get started with TarGene, please visit [targene-pipeline](https://github.com/TARGENE/targene-pipeline), a Nextflow based pipeline to perform TMLE from the UK-Biobank dataset.
+To get started with TarGene, please visit [targene-pipeline](https://targene.github.io/targene-pipeline/stable/), a Nextflow based pipeline to perform TMLE from the UK-Biobank dataset.
 
 ## Linked repositories
 
